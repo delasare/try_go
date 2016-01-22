@@ -1,3 +1,3 @@
 # try_go
 
-https://gobyexample.com/functions
+https://gobyexample.com
